@@ -1,7 +1,7 @@
 {
   "name": "react_google_calculator",
   "version": "0.1.0",
-  "homepage": "https://carlosflores10.github.io/CS-473-Website-Design/Assignment_3/react_google_calculator/",
+  "homepage": "https://carlosflores10.github.io/react_calculator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
